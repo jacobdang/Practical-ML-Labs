@@ -18,8 +18,8 @@ Each lab includes **detailed instructions, explanations, and code snippets** to 
 - **Expectation-Maximization & GMM Clustering** – Unsupervised learning methods.  
 - **Deep Learning & Transfer Learning** – Leveraging pre-trained models.  
 - **Residual Networks & Deformable Convolution** – Gradient analysis and advanced CNN architectures.  
-- **Faster R-CNN & Mask R-CNN** – Object detection and segmentation.  
-- **U-Net** – Medical image segmentation.  
+- **Faster R-CNN & Mask R-CNN** – Object detection and instance segmentation.  
+- **U-Net** – In-depth exploration of the foundational semantic segmentation algorithm
 - **CAM Visualization & Weakly Supervised Segmentation** – Interpreting deep learning models.  
 
 ---
