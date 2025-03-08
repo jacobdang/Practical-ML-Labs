@@ -12,7 +12,7 @@ Originally developed for the **DTS304 Machine Learning** course at **Xi’an Jia
 
 Each lab includes **detailed instructions, explanations, and code snippets** to guide you through essential machine learning techniques. Topics covered include:  
 
-- **Decision Trees & Random Forests** – Overfitting, bias-variance analysis.  
+- **Decision Trees & Random Forests** – Understanding Overfitting in terms of feature space visualization, bias-variance analysis.  
 - **Adaboost for Face Detection** – Understanding the Viola-Jones algorithm.  
 - **Ray Tune with XGBoost** – Hyperparameter tuning at scale.  
 - **Expectation-Maximization & GMM Clustering** – Unsupervised learning methods.  
